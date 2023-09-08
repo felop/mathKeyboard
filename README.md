@@ -1,2 +1,7 @@
 # mathKeyboard
-small 4x4 keyboard dedicated to math symbols
+
+
+<img src="imgs/pcb.jpg" width="50%"/>
+
+
+<img src="imgs/pcb_soldered.jpg" width="50%"/>
