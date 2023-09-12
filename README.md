@@ -1,7 +1,4 @@
 # mathKeyboard
+4x4 keyboard for some Latex symbols ([layout](keymap.docx))
 
-
-<img src="imgs/pcb.jpg" width="50%"/>
-
-
-<img src="imgs/pcb_soldered.jpg" width="50%"/>
+![](imgs/pcb_soldered.jpg)
